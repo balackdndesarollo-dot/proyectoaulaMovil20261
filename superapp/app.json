@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "superapp",
+    "slug": "superapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+
+    "icon": "./assets/icono.png",
+
+    "userInterfaceStyle": "light",
+
+    "splash": {
+      "image": "./assets/icono.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#EDE8DC"
+    },
+
+    "ios": {
+      "supportsTablet": true
+    },
+
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icono.png",
+        "backgroundColor": "#EDE8DC"
+      }
+    },
+
+    "web": {
+      "favicon": "./assets/icono.png"
+    }
+  }
+}
